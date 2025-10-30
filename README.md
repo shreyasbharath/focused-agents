@@ -4,6 +4,8 @@ Focused task guidelines for specialized agents handling specific software engine
 
 These agents are available as Claude Code subagents in `~/.claude/agents/` and can be invoked to handle specialized tasks.
 
+**Reference**: [Augmented Coding Patterns - Focused Agent](https://lexler.github.io/augmented-coding-patterns/patterns/focused-agent/)
+
 ## 🚀 Quick Start (TL;DR)
 
 ```bash
