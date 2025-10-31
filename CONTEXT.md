@@ -3,7 +3,7 @@
 ## Project Overview
 Creating comprehensive, evidence-based guidelines for specialized software engineering agents. Each agent handles specific tasks with clear responsibilities, best practices, and verification checklists.
 
-**Location**: `/Users/shreyas/github/agent-guidelines/`
+**Reference**: [Augmented Coding Patterns - Focused Agent](https://lexler.github.io/augmented-coding-patterns/patterns/focused-agent/)
 
 ## Completed Work
 
@@ -168,10 +168,10 @@ Conducted extensive research on:
 
 ## File Structure
 ```
-/Users/shreyas/github/agent-guidelines/
+focused-agents/
 ├── README.md                          # Overview and integration guide
 ├── CONTEXT.md                         # This file
-├── solutioning-agent.md               # NEW - Design solutions for brownfields
+├── solutioning-agent.md               # Design solutions for brownfields
 ├── test-creation-agent.md             # Write comprehensive test suites
 ├── test-review-agent.md               # Review test quality and coverage
 ├── code-review-agent.md               # Thorough code review with architecture focus
